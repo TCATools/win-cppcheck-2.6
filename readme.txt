@@ -3,6 +3,9 @@ Cppcheck
 =========
 
 
+The source code of this project is available at: https://github.com/danmar/cppcheck
+
+
 About
 
     The original name of this program is "C++check" but it was later changed to "cppcheck".
